@@ -7,10 +7,6 @@ It's Awesome Baby came to life in 2010 as a passion project. Our mission was to 
 ## Demo
 You can see a demo [here](http://www.itsawesomebaby.com/demo)
 
-## License
-
-This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details
-
 ## Acknowledgments
 
 * Paul Gendek
