@@ -12,7 +12,7 @@ It's Awesome Baby came to life in 2010 as a passion project. Our mission was to 
 ***
 ![Mobile bracket view 1](https://github.com/jimmygoogle/ncaa-portfolio/blob/main/bracket-mobile.png?raw=true)
 ***
-![Mobile bracket view 2](https://github.com/jimmygoogle/ncaa-portfolio/blob/main/standings-standings.png?raw=true)
+![Mobile bracket view 2](https://github.com/jimmygoogle/ncaa-portfolio/blob/main/standings-mobile.png?raw=true)
 ***
 ![Mobile bracket view 3](https://github.com/jimmygoogle/ncaa-portfolio/blob/main/user-bracket-mobile.png?raw=true)
 
