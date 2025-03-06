@@ -1,8 +1,10 @@
 # March Madness Bracket
 
-It's Awesome Baby! A March Madness bracket written in Python supported by Redis, MySQL, and Docker. This repo is mainly for code portfolio purposes as the actual code repo is now private.
+**It's Awesome, Baby!** A March Madness bracket built with Python, powered by Redis, MySQL, and Docker. This repository serves primarily as a code portfolio, as the actual codebase is now private. The application is deployed on AWS using ECS Fargate, with Terraform managing the infrastructure.
 
 It's Awesome Baby came to life in 2010 as a passion project. Our mission was to simplify the process of making and submitting picks, setting us apart from other platforms. No need for cumbersome account creation, verification, or logins. Say goodbye to spam and marketing emails. With It's Awesome Baby, you can effortlessly make your picks and dive straight into the game. It's just that simple.
+
+Check out the application [here](https://www.itsawesomebaby.com/demo).
 
 ![Bracket view 1](https://github.com/jimmygoogle/ncaa-portfolio/blob/main/bracket.png?raw=true)
 ***
